@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"name": "Zuri-Internship",
+		"path": "..\\..\\Zuri\\Zuri-Internship"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Zuri Flex Login"
+  }
+}
